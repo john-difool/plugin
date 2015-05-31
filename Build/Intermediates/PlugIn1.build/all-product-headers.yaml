@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/lorenzo/Downloads/Test/Build/Products/Debug-iphonesimulator/PlugIn1.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PlugIn1-Swift.h",
+          'external-contents': "/Users/lorenzo/Downloads/Test/Build/Products/Debug-iphonesimulator/PlugIn1.framework/Headers/PlugIn1-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lorenzo/Downloads/Test/Build/Products/Debug-iphonesimulator/PlugIn1.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/lorenzo/Downloads/Test/Build/Intermediates/PlugIn1.build/Debug-iphonesimulator/PlugIn1.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

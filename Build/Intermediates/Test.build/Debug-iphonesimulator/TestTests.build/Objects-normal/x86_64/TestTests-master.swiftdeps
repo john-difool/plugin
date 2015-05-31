@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "2482e7ff6c90fc96591e3cb62678f051"
+inputs: 
+- "/Users/lorenzo/Downloads/Test/TestTests/TestTests.swift"

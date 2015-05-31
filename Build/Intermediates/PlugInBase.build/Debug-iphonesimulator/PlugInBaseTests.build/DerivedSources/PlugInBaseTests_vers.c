@@ -1,0 +1,1 @@
+ const unsigned char PlugInBaseTestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:PlugInBaseTests  PROJECT:PlugInBase-1" "\n"; const double PlugInBaseTestsVersionNumber __attribute__ ((used)) = (double)1.;
